@@ -4,8 +4,11 @@
 
     <!--
     Mudrak Patel and Javid Niftaliyeve
-    COMP229 Project
-     -->
+    Comp229 game tracker project Fall 2016
+    Centennial College
+    Azure Link: http://finalgametracker.azurewebsites.net/
+    Github Link: https://github.com/mudrakpatel/TeamProjectFinal
+    -->
 
     <div class="gameImagesDiv">
         <a href="AllGames/fifa17Page.aspx" class="gameImageLinks" id="fifa17Link"></a>
